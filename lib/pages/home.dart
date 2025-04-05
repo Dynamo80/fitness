@@ -19,11 +19,11 @@ class HomePage extends StatelessWidget {
         elevation: 0.0,
         leading: Container(
           margin: EdgeInsets.all(10),
+          child: SvgPicture.asset('assets/icons/Arrow - Left 2.svg'),
           decoration: BoxDecoration(
             color: Color(0xffF7F8F8),
             borderRadius: BorderRadius.circular(10),
           ),
-          child: SvgPicture.asset('assets/icons/Arrow - 2 Left 2.svg'),
         ),
       ),
     );
