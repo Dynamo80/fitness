@@ -1,4 +1,4 @@
-```markdown
+
 # Fitness
 
 A new Flutter project aimed at assisting users in tracking their fitness activities.
@@ -11,7 +11,7 @@ To set up and run this project locally:
 
    ```bash
    git clone https://github.com/Dynamo80/fitness.git
-   ```
+```
 
 2. **Navigate to the Project Directory**:
 
