@@ -1,5 +1,3 @@
-Certainly. Based on the available information, here is a comprehensive `README.md` file for the [Dynamo80/fitness](https://github.com/Dynamo80/fitness) repository:
-
 ---
 
 # Fitness App
